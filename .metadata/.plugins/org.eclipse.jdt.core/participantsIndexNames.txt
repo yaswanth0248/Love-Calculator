@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\poola yaswanth kumar\Desktop\Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\659344697.index
+\Love-Calculator\target\generated-sources\annotations
+C:\Users\poola yaswanth kumar\Desktop\Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3706852866.index
+\Love-Calculator\target\generated-sources\annotations
