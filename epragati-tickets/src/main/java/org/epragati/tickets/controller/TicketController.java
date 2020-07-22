@@ -22,6 +22,7 @@ import org.springframework.web.multipart.MultipartFile;
 @RequestMapping(MappingUrls.ticket_service_url)
 public class TicketController {
 
+
 	@Autowired
 	RestServices restServices;
 
